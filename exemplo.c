@@ -5,7 +5,6 @@ int main () {
 	printf(" Algoritmo e");
 	printf(" Programação II\n");
 	printf(" Turma -N11\n");
-	system("pause");
-
+	printf("%d\n", 2026 - 55);
 	return 0;
 }
